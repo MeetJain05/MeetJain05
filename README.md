@@ -7,14 +7,14 @@ Welcome to my GitHub profile! I'm Meet Jain, a BTech Computer Engineering studen
 - 🎓 Currently pursuing BTech in Computer Engineering  
 - 📊 CGPA: 9.84  
 - 💻 Skilled in Python, C++, JavaScript, and more  
-- 🌐 Experienced with frameworks like TensorFlow, Keras, FastAPI, React, and OpenCV  
+- 🌐 Experienced with frameworks like FastAPI, React, 
 - 🚀 Enthusiastic about learning new technologies and collaborating on impactful projects
 
 ## Technical Skills
-- **Languages:** Python, C, C++, JavaScript, SQL, Java  
-- **Frameworks & Libraries:** TensorFlow, Keras, OpenCV, FastAPI, Flask, React, Tailwind CSS  
+- **Languages:** Python, C, C++, JavaScript, SQL, Java, Bash Scripting
+- **Frameworks & Libraries:** FastAPI, Flask, React, Tailwind CSS  
 - **Tools:** Linux, Git, GitHub, VS Code, Postman, Google Colab  
-- **Concepts:** Data Structures & Algorithms, Computer Vision, Deep Learning, DBMS, OOP  
+- **Concepts:** Data Structures & Algorithms, Operating System, Database Management System, OOPS  
 
 ## 💡 Achievements
 
