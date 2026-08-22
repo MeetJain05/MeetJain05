@@ -1,25 +1,414 @@
-# 💫 About Me:
-Hi, I'm Meet Jain 👋<br>A Computer Engineering undergraduate at Pandit Deendayal Energy University (CGPA: 9.82), interested in backend development, AI applications, and problem-solving.<br><br>I enjoy working with APIs, databases, and intelligent systems while strengthening my foundations in data structures and core computer science.<br><br>🧠 AI Engineering Intern experience<br>♟️ LeetCode Knight (Top 5.58%)<br>🏆 1st Place — Hackout’25 (DA-IICT)<br>🥈 1st Runner-up — Breach 2026 Fintech Hackathon<br>🎯 GATE 2026 Qualified (AIR 5075)
+<div align="center">
 
+# 👋 Hey, I'm Meet Jain
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/meet-jain05/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meetsvnjain@gmail.com) 
+### `Software Engineer • AI/GenAI Builder • Competitive Programmer`
 
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+actually+ship.;AI+%2B+Backend+%2B+Distributed+Systems.;Turning+ideas+into+production-ready+software.;Always+learning.+Always+building.;Competitive+programming+%7C+AI+%7C+Systems" alt="Typing SVG" />
 
-![](https://github-readme-stats.vercel.app/api?username=MeetJain05&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+<br/>
 
-![](https://streak-stats.demolab.com?user=MeetJain05&theme=dark&hide_border=true)
+<a href="https://linkedin.com/in/meet-jain05">
+<img src="https://img.shields.io/badge/LinkedIn-Meet%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Meet_Jain_07/">
+<img src="https://img.shields.io/badge/LeetCode-1860-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/Meet_Jain07">
+<img src="https://img.shields.io/badge/Codeforces-1411-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="mailto:meetsvnjain@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
+<br/><br/>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://komarev.com/ghpvc/?username=MeetJain05&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-![](https://komarev.com/ghpvc/?username=MeetJain05&label=Profile%20views&color=0e75b6&style=flat)
+## ⚡ `$ whoami`
 
+```text
+Meet Jain
+
+> Software Engineer in the making
+> AI / GenAI enthusiast
+> Backend & distributed systems enjoyer
+> Competitive programmer
+> Professional "let me build it first" person
+
+Currently:
+├── Building AI-powered applications
+├── Exploring distributed systems & backend architecture
+├── Sharpening DSA & competitive programming
+└── Turning caffeine → code ☕ → production
+```
+
+I enjoy working at the intersection of **software engineering, AI, backend systems and problem solving**.
+
+I like taking things from:
+
+**`idea → architecture → implementation → deployment → "wait, this actually works"`**
+
+---
+
+## 🧠 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / GenAI
+
+* RAG systems
+* LLM applications
+* Agentic workflows
+* Semantic search
+* Embeddings
+* Vector databases
+* AI-powered automation
+
+</td>
+<td width="50%">
+
+### ⚙️ Software Engineering
+
+* Backend systems
+* REST APIs
+* Distributed systems
+* Event-driven architectures
+* Real-time applications
+* Database design
+* CI/CD & automation
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 🧩 Problem Solving
+
+* Data Structures & Algorithms
+* Competitive Programming
+* System Design
+* Optimization
+* Debugging
+* Performance engineering
+
+</td>
+<td>
+
+### 🚀 Building
+
+* Developer tools
+* AI products
+* Streaming systems
+* Real-time applications
+* Hackathon projects
+* Things that probably started as "just a small idea"
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
+
+### Backend & Web
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,tailwind,html,css" />
+
+### Data & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,docker,linux,git,github" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
+
+`LangChain` · `LangGraph` · `Pandas` · `NumPy` · `pgvector` · `Pinecone`
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+## 🪙 Real-Time Crypto Anomaly Engine
+
+> **Real-time streaming + anomaly detection + distributed systems**
+
+A high-throughput pipeline that consumes live Binance trade streams, processes events through Kafka and performs real-time anomaly detection.
+
+```text
+Binance WebSocket
+       ↓
+   Event Stream
+       ↓
+      Kafka
+       ↓
+Streaming Processor
+       ↓
+Rolling Windows
+       ↓
+   Z-Score Engine
+       ↓
+Time-Series Database
+       ↓
+Real-Time Analytics
+```
+
+**Highlights**
+
+* ⚡ Real-time WebSocket ingestion
+* 📨 Kafka-based streaming architecture
+* 📊 Rolling-window analytics
+* 🚨 Z-score anomaly detection
+* 💾 Batched writes for high throughput
+* 🔄 Fault-tolerant offset management
+
+---
+
+## 🤖 AI-Powered Recruitment Platform
+
+> **AI + RAG + semantic search + intelligent deduplication**
+
+An AI recruitment platform designed to turn messy resumes into structured, searchable candidate data.
+
+**Pipeline**
+
+```text
+Resume
+  ↓
+Text Extraction
+  ↓
+Gemini Parsing
+  ↓
+Structured JSON
+  ↓
+Embeddings
+  ↓
+pgvector
+  ↓
+Semantic Search
+  ↓
+Candidate Intelligence
+```
+
+**Highlights**
+
+* 🎯 90%+ resume-to-JSON accuracy
+* 🔍 Hybrid semantic search
+* 🧠 Gemini-powered extraction
+* 🧹 3-layer candidate deduplication
+* ⚡ FastAPI + LangGraph backend
+* 🏆 Built in 36 hours → **2nd place at a fintech hackathon**
+
+---
+
+## 👨‍💻 Real-Time Collaborative Editor
+
+> **Because Ctrl+C → Ctrl+V wasn't collaborative enough.**
+
+A real-time collaborative code editor built around WebSockets and event-driven synchronization.
+
+**Stack**
+
+`React` · `Node.js` · `WebSockets` · `CodeMirror`
+
+**Features**
+
+* 👥 Multi-user editing
+* 🏠 Room-based sessions
+* 🔄 Real-time state synchronization
+* 🟢 Presence management
+* ⚡ Event-driven backend
+
+---
+
+# 🏆 Things I'm Proud Of
+
+<div align="center">
+
+| 🏅 Achievement                 | Result                                           |
+| ------------------------------ | ------------------------------------------------ |
+| 🥇 Hackout'25                  | **1st Place** · 1,000+ teams                     |
+| 🏆 Flipkart GRiD 8.0           | **National Semi-Finalist** · 165K+ registrations |
+| 🧠 LeetCode                    | **1860 — Knight**                                |
+| 💻 Codeforces                  | **1411 — Specialist**                            |
+| 🧩 LeetCode Weekly Contest 485 | **1619 / 34,222**                                |
+| 🎓 GATE 2026 CSE               | **AIR 5075**                                     |
+
+</div>
+
+---
+
+# 📊 Competitive Programming
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Meet_Jain_07?theme=dark&font=Baloo&ext=heatmap" width="500"/>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Meet_Jain_07/">
+<img src="https://img.shields.io/badge/LeetCode-550%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/Meet_Jain07">
+<img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Engineering Experience
+
+### 🏢 Software Engineering Intern — OpsHub
+
+```diff
++ Built Python automation for dead-code analysis
++ Integrated Git history + usage analysis + JaCoCo coverage
++ Removed 150,000+ lines of obsolete production code
++ Removed 11 unused JAR dependencies
++ Reduced build time by 12%
++ Improved enterprise integration connectors
++ Fixed SQL/data retrieval issues
+```
+
+### 🤖 AI Engineering Intern — La Sirene Exim
+
+```diff
++ Architected multi-tenant AI SaaS backend
++ Built Python + PostgreSQL REST infrastructure
++ Implemented RAG with Groq + Whisper + pgvector
++ Added retry / timeout strategies for model reliability
++ Built customizable client-specific AI chatbots
++ Achieved 85%+ response accuracy
+```
+
+---
+
+# 🌱 Currently Exploring
+
+```python
+learning = {
+    "AI": [
+        "Agentic AI",
+        "RAG architectures",
+        "LLM systems",
+        "AI infrastructure"
+    ],
+
+    "Backend": [
+        "Distributed Systems",
+        "System Design",
+        "Event-Driven Architecture",
+        "High-Performance APIs"
+    ],
+
+    "Engineering": [
+        "Cloud",
+        "Docker",
+        "Kubernetes",
+        "Scalable Architecture"
+    ]
+}
+```
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=MeetJain05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetJain05&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=MeetJain05&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MeetJain05/MeetJain05/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🧭 My Engineering Philosophy
+
+<div align="center">
+
+> **"Don't just make it work. Understand why it works."**
+
+<br/>
+
+**Learn → Build → Break → Debug → Optimize → Ship → Repeat**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in conversations around:
+
+`Software Engineering` · `AI/GenAI` · `Backend` · `Distributed Systems` · `Competitive Programming` · `Open Source`
+
+<div align="center">
+
+### If you're building something interesting, let's talk.
+
+<a href="https://linkedin.com/in/meet-jain05">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:meetsvnjain@gmail.com">
+<img src="https://img.shields.io/badge/Drop%20me%20a%20mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**⭐ If you find something interesting here, consider giving it a star!**
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+while (alive) {
+    learn();
+    build();
+    solve();
+    repeat();
+}
+```
+
+### 🚀 Building the future, one commit at a time.
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
