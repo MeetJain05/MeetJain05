@@ -1,397 +1,181 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=200&section=header&text=Meet%20Jain&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20products%20%C2%B7%20Backend%20%C2%B7%20Full%20stack&descAlignY=60&descSize=18&animation=fadeIn" />
+
 <div align="center">
 
-# 👋 Hey, I'm Meet Jain
-
-### `Software Engineer • AI/GenAI Builder • Competitive Programmer`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+systems+that+actually+ship.;AI+%2B+Backend+%2B+Distributed+Systems.;Turning+ideas+into+production-ready+software.;Always+learning.+Always+building.;Competitive+programming+%7C+AI+%7C+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=I+build+AI+products+end+to+end.;Agents+that+check+their+own+work.;Backends+that+survive+a+SIGKILL.;Frontends+that+ship+with+a+live+link." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://linkedin.com/in/meet-jain05">
-<img src="https://img.shields.io/badge/LinkedIn-Meet%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Meet_Jain_07/">
-<img src="https://img.shields.io/badge/LeetCode-1860-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-<a href="https://codeforces.com/profile/Meet_Jain07">
-<img src="https://img.shields.io/badge/Codeforces-1411-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-<a href="mailto:meetsvnjain@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://linkedin.com/in/meet-jain05"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:meetsvnjain@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Meet_Jain_07/"><img src="https://img.shields.io/badge/LeetCode-1860_Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/Meet_Jain07"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=MeetJain05&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=MeetJain05&style=flat-square&color=8B5CF6&label=Profile+views" alt="Profile views" />
 
 </div>
 
 ---
 
-## ⚡ `$ whoami`
+### 👋 About me
 
-```text
-Meet Jain
+Computer Engineering @ **PDEU '27** · Software Engineering Intern @ **OpsHub**
 
-> Software Engineer in the making
-> AI / GenAI enthusiast
-> Backend & distributed systems enjoyer
-> Competitive programmer
-> Professional "let me build it first" person
+I like taking an idea all the way to something deployed, with a link you can click.
 
-Currently:
-├── Building AI-powered applications
-├── Exploring distributed systems & backend architecture
-├── Sharpening DSA & competitive programming
-└── Turning caffeine → code ☕ → production
-```
-
-I enjoy working at the intersection of **software engineering, AI, backend systems and problem solving**.
-
-I like taking things from:
-
-**`idea → architecture → implementation → deployment → "wait, this actually works"`**
+| 🤖 **AI products** | ⚙️ **Backend** | 🖥️ **Full stack** |
+|:---|:---|:---|
+| Agents that grade their own retrieval, check their answers against evidence, ask a human before acting, and get **measured** with real evals. | APIs, queues and streaming pipelines that keep working when a worker is killed or a model provider times out. | React and Next.js frontends deployed on Vercel, Render, Cloudflare and AWS, so the result is a product, not a notebook. |
 
 ---
 
-## 🧠 What I Do
+### 🚀 Featured projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 🤖 AI / GenAI
+#### 🧠 [Agentic Adaptive RAG](https://github.com/MeetJain05/agentic-rag)
+**[▶ Try the live demo](https://agentic-rag-chi.vercel.app)**
 
-* RAG systems
-* LLM applications
-* Agentic workflows
-* Semantic search
-* Embeddings
-* Vector databases
-* AI-powered automation
+Ask questions over your own documents and get cited answers. Behind the chat is a **LangGraph state machine** that:
+- routes on retrieved evidence, not just the question
+- grades chunks and checks its answer for hallucinations
+- rewrites the query and retries when an answer fails
+- pauses for **human approval** before searching the web, with Postgres checkpoints so the approval survives a restart
+
+![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs) ![](https://img.shields.io/badge/RAGAS-eval-8B5CF6?style=flat-square)
 
 </td>
-<td width="50%">
-
-### ⚙️ Software Engineering
-
-* Backend systems
-* REST APIs
-* Distributed systems
-* Event-driven architectures
-* Real-time applications
-* Database design
-* CI/CD & automation
-
+<td width="45%" valign="middle">
+<a href="https://agentic-rag-chi.vercel.app"><img src="https://raw.githubusercontent.com/MeetJain05/agentic-rag/main/project_images/dashboard.png" width="100%"/></a>
 </td>
 </tr>
+
 <tr>
-<td>
+<td width="55%" valign="top">
 
-### 🧩 Problem Solving
+#### ⚙️ [WorkQueue](https://github.com/MeetJain05/work-queue)
+**1,740 jobs/s with 20 workers, benchmarked in CI on every push**
 
-* Data Structures & Algorithms
-* Competitive Programming
-* System Design
-* Optimization
-* Debugging
-* Performance engineering
+A background job queue in Go on Redis Streams:
+- acknowledgement-based processing, so no job is lost
+- retries with backoff and a replayable dead-letter queue
+- `SIGKILL` a worker mid-job and `XAUTOCLAIM` hands its work to another one
+
+![](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![](https://img.shields.io/badge/Redis_Streams-DC382D?style=flat-square&logo=redis&logoColor=white) ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
-<td>
+<td width="45%" valign="middle">
+<a href="https://github.com/MeetJain05/work-queue"><img src="https://raw.githubusercontent.com/MeetJain05/work-queue/main/docs/dashboard.png" width="100%"/></a>
+</td>
+</tr>
 
-### 🚀 Building
+<tr>
+<td width="55%" valign="top">
 
-* Developer tools
-* AI products
-* Streaming systems
-* Real-time applications
-* Hackathon projects
-* Things that probably started as "just a small idea"
+#### 🚚 [Cold-Chain Dispatch Agent](https://github.com/MeetJain05/cold-chain-logistics-fde-project)
+**Three dispatcher screens collapsed into one conversation**
+
+A dispatcher asks in plain English, and a **LangGraph ReAct agent** pulls together everything needed to decide fast:
+- reefer telemetry, through a secured read-only SQL view
+- live weather at the truck's GPS location
+- compliance SOPs, via vector search
+
+It returns a cited incident report. Every tool call is audit-logged, Groq falls back to local Ollama, and the app deploys to AWS EC2 through GitHub Actions.
+
+![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![](https://img.shields.io/badge/Pinecone-000?style=flat-square) ![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+
+</td>
+<td width="45%" valign="middle">
+
+```text
+ "Is truck 14's produce at risk?"
+               │
+       ┌───────┴───────┐
+       │  ReAct agent  │
+       └───────┬───────┘
+   ┌───────────┼───────────┐
+   ▼           ▼           ▼
+ SQL view   Weather     SOP search
+(telemetry) (GPS)      (Pinecone)
+   └───────────┼───────────┘
+               ▼
+   Cited incident report
+       + audit log
+```
 
 </td>
 </tr>
 </table>
 
----
-
-# 🛠️ Tech Arsenal
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
-
-### Backend & Web
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,tailwind,html,css" />
-
-### Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,docker,linux,git,github" />
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=python" />
-
+<details>
+<summary><b>📂 View more projects</b></summary>
 <br/>
 
-`LangChain` · `LangGraph` · `Pandas` · `NumPy` · `pgvector` · `Pinecone`
+| Project | What it is | Stack |
+|---|---|---|
+| **[RecruitAI](https://github.com/MeetJain05/breach-26)** 🥈 | Recruitment platform that ingests resumes, Gmail, BambooHR and LinkedIn data, deduplicates candidates and supports semantic search. 2nd place at a fintech hackathon | LangGraph · FastAPI · pgvector · Gemini |
+| **[Agent Eval Lab](https://github.com/MeetJain05/agent-eval)** | Refund-support agent scored on 8 scenarios × 7 DeepEval metrics: task completion, plan quality, tool selection and more | LangChain · DeepEval · Streamlit |
+| **[Clarity CRAG](https://github.com/MeetJain05/crag)** | Corrective RAG with three-way retrieval grading and web fallback, evaluated against a plain-RAG baseline | LangGraph · FastAPI · React |
+| **[VibeStream](https://github.com/MeetJain05/crypto-analytics)** | Real-time crypto anomaly detection: Binance → Kafka → rolling z-scores → TimescaleDB → live dashboard | Kafka · TimescaleDB · React |
+| **[Commonplace](https://github.com/MeetJain05/commonplace-bill-splitter)** | Household bill splitter that stores money as integer cents and makes payments idempotent | Hono · Cloudflare D1 · React · TS |
+| **[Intrusion Detection](https://github.com/MeetJain05/ml-project)** | Logistic regression, Naive Bayes and K-Means written from scratch in NumPy on UNSW-NB15 (0.91 F1) | NumPy · Streamlit |
+| **[Lets Code](https://github.com/MeetJain05/realtime-collab-editor)** | Real-time collaborative code editor with rooms and presence | React · Socket.io |
 
-</div>
-
----
-
-# 🔥 Featured Projects
-
-## 🪙 Real-Time Crypto Anomaly Engine
-
-> **Real-time streaming + anomaly detection + distributed systems**
-
-A high-throughput pipeline that consumes live Binance trade streams, processes events through Kafka and performs real-time anomaly detection.
-
-```text
-Binance WebSocket
-       ↓
-   Event Stream
-       ↓
-      Kafka
-       ↓
-Streaming Processor
-       ↓
-Rolling Windows
-       ↓
-   Z-Score Engine
-       ↓
-Time-Series Database
-       ↓
-Real-Time Analytics
-```
-
-**Highlights**
-
-* ⚡ Real-time WebSocket ingestion
-* 📨 Kafka-based streaming architecture
-* 📊 Rolling-window analytics
-* 🚨 Z-score anomaly detection
-* 💾 Batched writes for high throughput
-* 🔄 Fault-tolerant offset management
+</details>
 
 ---
 
-## 🤖 AI-Powered Recruitment Platform
+### 💼 Experience
 
-> **AI + RAG + semantic search + intelligent deduplication**
-
-An AI recruitment platform designed to turn messy resumes into structured, searchable candidate data.
-
-**Pipeline**
-
-```text
-Resume
-  ↓
-Text Extraction
-  ↓
-Gemini Parsing
-  ↓
-Structured JSON
-  ↓
-Embeddings
-  ↓
-pgvector
-  ↓
-Semantic Search
-  ↓
-Candidate Intelligence
-```
-
-**Highlights**
-
-* 🎯 90%+ resume-to-JSON accuracy
-* 🔍 Hybrid semantic search
-* 🧠 Gemini-powered extraction
-* 🧹 3-layer candidate deduplication
-* ⚡ FastAPI + LangGraph backend
-* 🏆 Built in 36 hours → **2nd place at a fintech hackathon**
-
----
-
-## 👨‍💻 Real-Time Collaborative Editor
-
-> **Because Ctrl+C → Ctrl+V wasn't collaborative enough.**
-
-A real-time collaborative code editor built around WebSockets and event-driven synchronization.
-
-**Stack**
-
-`React` · `Node.js` · `WebSockets` · `CodeMirror`
-
-**Features**
-
-* 👥 Multi-user editing
-* 🏠 Room-based sessions
-* 🔄 Real-time state synchronization
-* 🟢 Presence management
-* ⚡ Event-driven backend
-
----
-
-# 🏆 Things I'm Proud Of
-
-<div align="center">
-
-| 🏅 Achievement                 | Result                                           |
-| ------------------------------ | ------------------------------------------------ |
-| 🥇 Hackout'25                  | **1st Place** · 1,000+ teams                     |
-| 🏆 Flipkart GRiD 8.0           | **National Semi-Finalist** · 165K+ registrations |
-| 🧠 LeetCode                    | **1860 — Knight**                                |
-| 💻 Codeforces                  | **1411 — Specialist**                            |
-| 🧩 LeetCode Weekly Contest 485 | **1619 / 34,222**                                |
-| 🎓 GATE 2026 CSE               | **AIR 5075**                                     |
-
-</div>
-
----
-
-# 📊 Competitive Programming
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Meet_Jain_07?theme=dark&font=Baloo&ext=heatmap" width="500"/>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/Meet_Jain_07/">
-<img src="https://img.shields.io/badge/LeetCode-550%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://codeforces.com/profile/Meet_Jain07">
-<img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces"/>
-</a>
-
-</div>
-
----
-
-# 💼 Engineering Experience
-
-### 🏢 Software Engineering Intern — OpsHub
-
-```diff
-+ Built Python automation for dead-code analysis
-+ Integrated Git history + usage analysis + JaCoCo coverage
-+ Removed 150,000+ lines of obsolete production code
-+ Removed 11 unused JAR dependencies
-+ Reduced build time by 12%
-+ Improved enterprise integration connectors
-+ Fixed SQL/data retrieval issues
-```
-
-### 🤖 AI Engineering Intern — La Sirene Exim
-
-```diff
-+ Architected multi-tenant AI SaaS backend
-+ Built Python + PostgreSQL REST infrastructure
-+ Implemented RAG with Groq + Whisper + pgvector
-+ Added retry / timeout strategies for model reliability
-+ Built customizable client-specific AI chatbots
-+ Achieved 85%+ response accuracy
-```
-
----
-
-# 🌱 Currently Exploring
-
-```python
-learning = {
-    "AI": [
-        "Agentic AI",
-        "RAG architectures",
-        "LLM systems",
-        "AI infrastructure"
-    ],
-
-    "Backend": [
-        "Distributed Systems",
-        "System Design",
-        "Event-Driven Architecture",
-        "High-Performance APIs"
-    ],
-
-    "Engineering": [
-        "Cloud",
-        "Docker",
-        "Kubernetes",
-        "Scalable Architecture"
-    ]
-}
-```
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=MeetJain05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetJain05&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MeetJain05&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MeetJain05/MeetJain05/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🧭 My Engineering Philosophy
-
-<div align="center">
-
-> **"Don't just make it work. Understand why it works."**
-
+<details open>
+<summary><b>Software Engineering Intern · OpsHub</b></summary>
 <br/>
 
-**Learn → Build → Break → Debug → Optimize → Ship → Repeat**
+- Built a Python dead-code analyzer that combines Git history, usage analysis and JaCoCo coverage. It led to **150,000+ lines** of obsolete production code and **11 unused JARs** being removed, and cut build time by **12%**.
+- Worked on live production: debugged and fixed bugs and failures in the enterprise integration platform customers run on, including SQL and data-retrieval issues in integration connectors.
 
-</div>
+</details>
+
+<details open>
+<summary><b>AI Engineering Intern · La Sirene Exim</b></summary>
+<br/>
+
+- Designed a multi-tenant AI SaaS backend (Python + PostgreSQL) with RAG over Groq, Whisper and pgvector.
+- Added retry and timeout handling for model calls. The backend powers per-client chatbots at **85%+ response accuracy**.
+
+</details>
 
 ---
 
-# 🤝 Let's Connect
-
-I'm always interested in conversations around:
-
-`Software Engineering` · `AI/GenAI` · `Backend` · `Distributed Systems` · `Competitive Programming` · `Open Source`
+### 🛠️ Toolbox
 
 <div align="center">
 
-### If you're building something interesting, let's talk.
-
-<a href="https://linkedin.com/in/meet-jain05">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:meetsvnjain@gmail.com">
-<img src="https://img.shields.io/badge/Drop%20me%20a%20mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,go,cpp,java,ts,js&perline=12" /><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,kafka,mongodb&perline=12" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,docker,aws,cloudflare,vercel,githubactions,linux&perline=12" />
 
 <br/><br/>
 
-**⭐ If you find something interesting here, consider giving it a star!**
+![](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain) ![](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square) ![](https://img.shields.io/badge/DeepEval-147D64?style=flat-square) ![](https://img.shields.io/badge/RAGAS-F97316?style=flat-square) ![](https://img.shields.io/badge/pgvector-4169E1?style=flat-square) ![](https://img.shields.io/badge/Pinecone-000?style=flat-square) ![](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama)
+
+</div>
+
+---
+
+### 🏆 Highlights
+
+<div align="center">
+
+| 🥇 **HackOut '25** | 🏆 **Flipkart GRiD 8.0** | 🥈 **Fintech hackathon** |
+|:---:|:---:|:---:|
+| 1st of 1,000+ teams | National Semi-Finalist · 165K+ registrations | 2nd place with RecruitAI |
+| 🧠 **LeetCode** | 💻 **Codeforces** | 📈 **LeetCode Weekly 485** |
+| 1860 Knight · 550+ solved | 1411 Specialist | 1,619 / 34,222 |
 
 </div>
 
@@ -399,16 +183,14 @@ I'm always interested in conversations around:
 
 <div align="center">
 
-```text
-while (alive) {
-    learn();
-    build();
-    solve();
-    repeat();
-}
-```
+### 🤝 Let's build something
 
-### 🚀 Building the future, one commit at a time.
+**Open to SWE, full-stack and AI engineering internships and new-grad roles.**
+If you're building an AI product, I'd love to talk.
+
+<a href="https://linkedin.com/in/meet-jain05"><img src="https://img.shields.io/badge/Say_hi_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:meetsvnjain@gmail.com"><img src="https://img.shields.io/badge/Drop_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=110&section=footer" />
